@@ -1,0 +1,5 @@
+C:\VStudio\GB\9 разработка сетевого приложения\ConsoleApp1\obj\Debug\net5.0\ChatProject.csproj.AssemblyReference.cache
+C:\VStudio\GB\9 разработка сетевого приложения\ConsoleApp1\obj\Debug\net5.0\ChatProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\VStudio\GB\9 разработка сетевого приложения\ConsoleApp1\obj\Debug\net5.0\ChatProject.AssemblyInfoInputs.cache
+C:\VStudio\GB\9 разработка сетевого приложения\ConsoleApp1\obj\Debug\net5.0\ChatProject.AssemblyInfo.cs
+C:\VStudio\GB\9 разработка сетевого приложения\ConsoleApp1\obj\Debug\net5.0\ChatProject.csproj.CoreCompileInputs.cache
